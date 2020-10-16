@@ -1,6 +1,7 @@
 version: 0.2
-parameter-store:
-  build_ssh_key: "/CodeBuild/emobility_build_ssh_key"
+env:
+  parameter-store:
+    build_ssh_key: "/CodeBuild/emobility_build_ssh_key"
 phases:
   install:
     runtime-versions:
