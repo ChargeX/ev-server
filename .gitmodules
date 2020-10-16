@@ -22,7 +22,7 @@
 # 	path = src/assets/configs-ci
 # 	url = git@github.com:LucasBrazi06/ev-ci.git
 # 	branch = master
-[submodule "src/assets/configs-aws"]
-	path = src/assets/configs-aws
-	url = git@github.com:ChargeX/ev-aws.git
-	branch = master
+# [submodule "src/assets/configs-aws"]
+# 	path = src/assets/configs-aws
+# 	url = git@github.com:ChargeX/ev-aws.git
+# 	branch = master
